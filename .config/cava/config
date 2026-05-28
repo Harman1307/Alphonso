@@ -1,0 +1,14 @@
+neral]
+bars = 10
+framerate = 20
+bar_width = 1
+bar_spacing = 0
+
+[output]
+method = raw
+channels = mono
+data_format = ascii
+ascii_max_range = 7
+
+[smoothing]
+noise_reduction = 60

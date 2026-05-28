@@ -1,0 +1,11 @@
+singleton Colors 1.0 Colors.qml
+singleton UIState 1.0 UIState.qml
+singleton Animations 1.0 Animations.qml
+Bar 1.0 Bar.qml
+Dashboard 1.0 Dashboard.qml
+Launcher 1.0 Launcher.qml
+Wallpaper 1.0 Wallpaper.qml
+Music 1.0 Music.qml
+Calendar 1.0 Calendar.qml
+NotificationPopup 1.0 NotificationPopup.qml
+Lockscreen 1.0 Lockscreen.qml

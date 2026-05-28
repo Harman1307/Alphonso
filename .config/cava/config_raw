@@ -1,0 +1,9 @@
+[general]
+bars = 12
+framerate = 60
+
+[output]
+method = raw
+raw_target = /dev/stdout
+data_format = ascii
+ascii_max_range = 255

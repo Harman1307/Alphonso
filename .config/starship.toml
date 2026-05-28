@@ -1,0 +1,11 @@
+format = "$directory$character"
+
+[directory]
+format = "[$path]($style) "
+style = "blue"
+truncation_length = 0
+home_symbol = ""
+
+[character]
+success_symbol = "[>](white)"
+error_symbol = "[>](red)"

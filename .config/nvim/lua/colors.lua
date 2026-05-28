@@ -1,0 +1,20 @@
+return {
+    bg             = "#222020",
+    surface        = "#343232",
+    fg             = "#e1e0e0",
+    dim            = "#6b6969",
+    accent         = "#9ba7bf",
+    red            = "#ce928d",
+    green          = "#8dcea0",
+    yellow         = "#cec18d",
+    syntax_keyword  = "#9d9dc8",
+    syntax_string   = "#9dbac8",
+    syntax_func     = "#9dabc8",
+    syntax_type     = "#ab9dc8",
+    syntax_const    = "#9dc8c8",
+    syntax_comment  = "#7c7979",
+    syntax_param    = "#9db2c8",
+    syntax_operator = "#9da4c8",
+    dark           = true,
+}
+
