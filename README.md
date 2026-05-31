@@ -49,7 +49,6 @@ Switch wallpapers in the picker, watch everything recolor in real time. It's wei
 | **Panels/Widgets** | [Quickshell](https://github.com/outfoxxed/quickshell) (QML-based) |
 | **Terminal** | Kitty |
 | **Editor** | Neovim |
-| **File Manager** | Thunar |
 | **Lockscreen** | Quickshell + python-pam |
 | **Notifications** | Tiramisu → Quickshell |
 | **Wallpaper Daemon** | awww-daemon |
